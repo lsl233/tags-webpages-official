@@ -1,0 +1,31 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = '保存你的页面'
+
+theme = 'Agnes'
+
+[params.content]
+	LeadTitle = "页面打开太多？"
+	LeadDescription = "保存当前打开的页面"
+	ButtonCaption = "下载"
+	ButtonURL = "http://google.com"
+
+[[params.feature]]
+	FeatureTitle = "Feature 1"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-1.png"
+	
+[[params.feature]]
+	FeatureTitle = "Feature 2"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-2.png"
+
+[[params.feature]]
+	FeatureTitle = "Feature 3"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-3.png"
+	
+[[params.feature]]
+	FeatureTitle = "Feature 4"
+	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureImage = "images/feature-4.png"
