@@ -6,26 +6,21 @@ theme = 'Agnes'
 
 [params.content]
 	LeadTitle = "页面打开太多？"
-	LeadDescription = "保存当前打开的页面"
+	LeadDescription = "关闭并保存当前打开的页面，方便下次打开"
 	ButtonCaption = "下载"
 	ButtonURL = "http://google.com"
 
 [[params.feature]]
-	FeatureTitle = "Feature 1"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "保存工作空间"
+	FeatureDescription = "打开了一堆页面，关闭也不是，收藏也不是"
 	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
-	FeatureTitle = "Feature 2"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "节省内存"
+	FeatureDescription = "页面打开那么多"
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
-	FeatureTitle = "Feature 3"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "快速恢复"
+	FeatureDescription = "一键恢复工作状态"
 	FeatureImage = "images/feature-3.png"
-	
-[[params.feature]]
-	FeatureTitle = "Feature 4"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
-	FeatureImage = "images/feature-4.png"
