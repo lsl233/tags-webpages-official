@@ -8,19 +8,24 @@ theme = 'Agnes'
 	LeadTitle = "页面打开太多？"
 	LeadDescription = "关闭并保存当前打开的页面，方便下次打开"
 	ButtonCaption = "下载"
-	ButtonURL = "http://google.com"
+	ButtonURL = "light-workspace.zip"
 
 [[params.feature]]
 	FeatureTitle = "保存工作空间"
-	FeatureDescription = "打开了一堆页面，关闭也不是，收藏也不是"
+	FeatureDescription = "关闭并保存当前所有页面"
 	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "节省内存"
-	FeatureDescription = "页面打开那么多"
+	FeatureDescription = "一键节省内存"
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
 	FeatureTitle = "快速恢复"
 	FeatureDescription = "一键恢复工作状态"
+	FeatureImage = "images/feature-3.png"
+
+[[params.feature]]
+	FeatureTitle = "标签收藏夹 TODO"
+	FeatureDescription = "一个网页可以进入多个收藏夹，收藏无压力！"
 	FeatureImage = "images/feature-3.png"
